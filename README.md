@@ -1,5 +1,3 @@
 # Noteditor
 
-This is a simple note editor.
-Paste feature is not working for now.
-Program keeps the notes in the .txt file.
+World's simplest note editor. (My first project)
