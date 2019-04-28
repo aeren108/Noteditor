@@ -1,3 +1,3 @@
 # Noteditor
 
-World's simplest note editor. (My first project)
+World's simplest note editor.
